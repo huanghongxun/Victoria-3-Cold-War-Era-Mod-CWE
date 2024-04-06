@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+
+    ig_trait_hostile_judiciary:0 "敌对司法"
+    ig_trait_compliant_judiciary:0 "顺从司法"
+
+    ig_trait_compliant_civil_service:0 "顺从公务员"
+    ig_trait_hostile_civil_service:0 "敌对公务员"
+
+    ig_trait_compliant_security_services:0 "顺从安全机构"
+    ig_trait_hostile_civil_service:0 "敌对安全机构"
+
+    ig_trait_corporate_productivity:0 "高工作效率"
+    ig_trait_corporate_idleness:0 "低工作效率"

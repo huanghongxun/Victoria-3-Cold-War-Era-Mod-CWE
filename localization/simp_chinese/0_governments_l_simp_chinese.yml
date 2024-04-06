@@ -111,4 +111,4 @@
     ceremonial_premier_name:0 "总理"
     
     # ceremonial_monarch_title_name:0 "[ROOT.GetCountry.GetAdjectiveNoFlag] Monarch represented by Lord Chancellor"
-    ceremonial_chairperson_name:0 "理事会主席"
+    ceremonial_chairperson_name:0 "国务院总理"
